@@ -15,7 +15,9 @@ Arquivos Incluídos:
 3. Abra um terminal na pasta do repositório.
 4. Execute cada script JavaScript utilizando o shell do MongoDB. Por exemplo:
 
-``` mongosh < inserir-clientes.js ```
+```
+mongosh < inserir-clientes.js
+```
 
 Após a execução dos scripts, você pode verificar os resultados utilizando consultas no shell do MongoDB. Por exemplo:
 
